@@ -1,4 +1,5 @@
 ## Welcome to MYX Labs.
-![MYX Labs](https://user-images.githubusercontent.com/9079480/228871485-0f0428fb-0cfc-4735-bb84-589c67f41e9a.png)
+![GitHub 2](https://user-images.githubusercontent.com/9079480/228873995-39a659c0-17c0-4409-b7ac-fe7b23cb6259.png)
+
 
 A collection of free, web-based utilities for the MYS community.
